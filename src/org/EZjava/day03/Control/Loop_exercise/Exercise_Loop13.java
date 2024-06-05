@@ -23,7 +23,7 @@ public class Exercise_Loop13 {
 			break;
 		}
  {
-			System.out.println(isPrime ? j : "소수아님"  );
+			System.out.println(isPrime ? "소수" : "소수아님"  );
 		}
 	}
 }

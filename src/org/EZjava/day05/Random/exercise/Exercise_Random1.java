@@ -18,6 +18,7 @@ public class Exercise_Random1 {
 			if (choice == -1)
 				break;
 
+			
 			int num = rand.nextInt(2) + 1;
 //			int num1 = (int)(Math.random()*2)+1; // math로 하는법
 			if (num == choice) {
